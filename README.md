@@ -1,4 +1,3 @@
-# EFYA-LOVE-
 <!DOCTYPE html>
 <html lang="en">
 <head>
